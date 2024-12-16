@@ -6,7 +6,8 @@
   
 After accessing a specific organization, the user can view various options and sections that display the key information defining the organization's specifications. To modify or edit the organization, the user must navigate through several sub-categories. They are: 
 
-![Edit Organization]("Edit Organization.png")
+![Edit Organization](Edit-Organization.png)
+
 
 ### 1.1.1.	Organization Info 
   
