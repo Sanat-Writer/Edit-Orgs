@@ -60,6 +60,7 @@ This Radio button allows the User to
   
 **Path:** Organizations>Edit Organization>Organization Info  
 
+![Types of Organization](Types-of-Organization.png)
 
 1.1.1.1.5.1.1.	Association 
 
